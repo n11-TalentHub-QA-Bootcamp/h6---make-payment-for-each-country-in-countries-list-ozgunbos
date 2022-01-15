@@ -6,7 +6,7 @@
 # scenario
 # make payment for each country in countries list
 #logout test
-Feature: make a payment to three different client
+Feature: make a payment to all countries
 #@step1
 #Scenario:make a payment to three different client
 #When User login with user valid credentails
